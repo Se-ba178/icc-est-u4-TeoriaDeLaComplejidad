@@ -1,4 +1,16 @@
 # Practica : Teoria de la complejidad 
+# Integrantes
+> Christian Villa 
+
+> Bryam Collaguazo
+
+> Kevin Morocho
+
+> Sofia Pacheco
+
+> Juan Coronel
+---
+# Desarrollo de la investigación 
 
 ## 1. Definición de algoritmo y su importancia en la resolución de problemas.
 
