@@ -119,24 +119,43 @@ Por otro lado comprendimos que la notación big (0) nos ayuda a comparar los dif
 
 
 
-## Capturas de los Resultados de los ejemplos Popuestos 
+##  Codigos Ejemplos
 
 `Complejidad Constante`
+![alt text](<assets/Captura de pantalla 2026-04-28 003104.png>)
 
-![alt text](<assets/Captura de pantalla 2026-04-26 021236.png>)
+*No importa el tamaño de los datos,
+la operación siempre tarda lo mismo.*
+
 
 `Complejidad Lineal`
+![alt text](<assets/Captura de pantalla 2026-04-28 003502.png>)
+*El tiempo de ejecución depende de la cantidad
+de elementos en el arreglo, porque recorre uno por uno.*
 
-![alt text](<assets/Captura de pantalla 2026-04-26 021506.png>)
+
 
 `Complejidad Cuadratica `
-
-![alt text](<assets/Captura de pantalla 2026-04-26 021619.png>)
+![alt text](<assets/Captura de pantalla 2026-04-28 003647.png>)
+*Se utilizan dos ciclos anidados, por lo que
+el número de operaciones crece multiplicando n × n.*
 
 `Complejidad Logaritmica `
+![alt text](<assets/Captura de pantalla 2026-04-28 003709.png>)
+*En cada repetición el valor de n se divide entre 2,
+por lo que el número de operaciones crece lentamente.*
 
-![alt text](<assets/Captura de pantalla 2026-04-26 021726.png>)
+
 
 `Complejidad NlogN`
+![alt text](<assets/Captura de pantalla 2026-04-28 003729.png>)
+*El método sort ordena los elementos con una complejidad
+de n log n, ya que divide y ordena el arreglo eficientemente.*
 
-![alt text](<assets/Captura de pantalla 2026-04-26 021812.png>)
+
+
+
+
+
+
+
