@@ -2,7 +2,7 @@
 * Complejidad: O(1)
 * Razón: No importa el tamaño de los datos,
 * la operación siempre tarda lo mismo.
-* 
+* aporte bryam
 */
 
 public class ComplejidadConstante {
